@@ -1,5 +1,6 @@
 
-<img width=100% title="Reddyvari Tejesh Kumar Reddy" id="top" alt="rtkr" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi+👋,+I'm+R+Tejesh Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<img width=100% title="ReddyvariTejesh" id="top" alt="reddyvari" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi+👋,+I'm+R+Tejesh+Kumar+Reddy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
  <div align="center" >
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=465&lines=Full+Stack+Web+Developer;A+Passionate+Web+Developer"/>
