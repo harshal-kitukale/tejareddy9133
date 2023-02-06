@@ -35,15 +35,15 @@
 
 
 <div align="left" >
+ 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code> 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code> 
+ <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="nextjs" width="40"/></code>
+ <code><img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="chakra-ui" width="40" /></code>
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code> 
-<!--  <code> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </code> -->
  <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="40"/></code> 
  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40"/></code>
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" ></code> 
- <code><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="nextjs" width="40"/></code>
- <code><img src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="chakra-ui" width="40" /></code>
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/></code>
  </br></br>
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"/></code>
@@ -72,9 +72,9 @@
  <img width="60%" height="200"  align="center" src="https://github-readme-stats.vercel.app/api?username=tejareddy9133&show_icons=true&locale=en" alt="tejareddy9133" />
   </p>
 <p align="center">
- <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="130px" align="center">
+ 
  <img width="60%" height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejareddy9133&" alt="tejareddy9133" />
- <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="130px"  align="center">
+ 
  </p>
 </div>
  
